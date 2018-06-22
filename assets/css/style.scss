@@ -5,3 +5,23 @@
 body {
   background-color:#ffffff;
 }
+
+/* unvisited link */
+a:link {
+    color: #46c2f2;
+}
+
+/* visited link */
+a:visited {
+    color: #0b4e9a;
+}
+
+/* mouse over link */
+a:hover {
+    color: #6cd2e7;
+}
+
+/* selected link */
+a:active {
+    color: #6cd2e7;
+}
