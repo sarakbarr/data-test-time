@@ -8,4 +8,4 @@ That and the other
 
 Step 3:
 
-Do this thing
+Do [this thing](https://data.world){:target="_blank"}
