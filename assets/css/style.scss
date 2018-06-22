@@ -4,6 +4,15 @@
 @import "{{ site.theme }}";
 body {
   background-color:#ffffff;
+  font-family: Lato,Helvetica,Arial,sans-serif;
+}
+
+h1 {
+  font-family: Lato,Helvetica,Arial,sans-serif;
+}
+
+h2 {
+ font-family: Lato,Helvetica,Arial,sans-serif; 
 }
 
 /* unvisited link */
@@ -25,3 +34,5 @@ a:hover {
 a:active {
     color: #6cd2e7;
 }
+
+
