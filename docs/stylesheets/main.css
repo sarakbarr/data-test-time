@@ -4,26 +4,34 @@ background-color:#fff;
 
 }
 
-title {
+h1 {
   
-font-size: 30px;
-color:#b1b1b1;
-font-family: sans-serif;
+font-size: 36px;
+color:#6B6A6A;
+font-family: 'Montserrat', sans-serif;
   
 }
 
-h1 {
+h2 {
+  
+font-size: 36px;
+color:#928D8C;
+font-family: 'Montserrat', sans-serif;
+  
+}
 
-font-size: 20px;
-color:#b1b1b1;
-font-family: sans-serif;
+h3 {
+
+font-size: 24px;
+color:#3B3736;
+font-family: 'Montserrat', sans-serif;
 
 }
 
 p {
 
-font-size: 10px;
-color:#b1b1b1;
-font-family: sans-serif;
+font-size: 14px;
+color:#6B6A6A;
+font-family: 'Montserrat', sans-serif;
 
 }
